@@ -1,0 +1,18 @@
+.canvas-wrapper {
+    width: 60rem;
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+#chart {
+    width: 25rem!important;
+    height: 25rem!important;
+}
+
+.inputNumber {
+    width: 200px;
+    height: 150px;
+}
+
